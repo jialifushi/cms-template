@@ -14,3 +14,9 @@ cp /home/web/html/template/DYXS2/asset/admin/Dyxs2.php /home/web/html/applicatio
 
 cp /home/web/html/template/DYXS2/asset/admin/dycms.html /home/web/html/application/admin/view/system
 
+采集添加
+https://www.kancloud.cn/huitailang518/hailuo/2256745
+
+科技Lion教程
+https://www.youtube.com/watch?v=94u3wvJWKuA
+https://kejilion.blogspot.com/2023/06/3-cms.html
